@@ -1,0 +1,32 @@
+# Credentials
+.env
+*.session
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+chat.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Legacy code (kept for reference but not included in repo)
+kicksimao/
