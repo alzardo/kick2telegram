@@ -27,6 +27,3 @@ chat.txt
 # OS
 .DS_Store
 Thumbs.db
-
-# Legacy code (kept for reference but not included in repo)
-kicksimao/
